@@ -1,13 +1,13 @@
 # 👩🏻‍💻 Customer-Behavior-Data-Analyst
 End-to-end customer behavior data analytics project using Python, SQL, MySQL, Power BI, and Excel to generate actionable business insights.
 
-#📌 Project Overview
+## 📌 Project Overview
 
 This project showcases a complete, industry-standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of a Data Analyst in a corporate environment.
 
 The objective is to demonstrate how raw customer data can be transformed into actionable business insights through structured analysis, visualization, and reporting.
 
-#🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
 
 ✔ End-to-end analytical thinking
 ✔ Strong data preparation and modeling skills
@@ -15,7 +15,7 @@ The objective is to demonstrate how raw customer data can be transformed into ac
 ✔ Insightful dashboard design
 ✔ Clear communication of insights to stakeholders
 
-#🔄 End-to-End Analytics Workflow
+## 🔄 End-to-End Analytics Workflow
 
 ✔ Business Problem Understanding
 ✔ Data Cleaning & EDA (Python)
@@ -28,7 +28,7 @@ The objective is to demonstrate how raw customer data can be transformed into ac
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/79a7b9d9-67b5-408c-8358-9b032c576572" />
 
 
-#🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 This project leverages a modern analytics stack commonly used in industry:
 
@@ -40,7 +40,7 @@ This project leverages a modern analytics stack commonly used in industry:
 • PowerPoint / Gamma AI for presenting insights to non-technical stakeholders
 
 
-#📊 Analytical Focus Areas
+## 📊 Analytical Focus Areas
 
 The analysis concentrates on key business questions such as:
 
@@ -51,7 +51,7 @@ The analysis concentrates on key business questions such as:
 • Revenue distribution across different demographic groups
 
 
-#📈 Project Outcomes
+## 📈 Project Outcomes
 
 Through this analysis, the project delivers:
 
@@ -62,7 +62,7 @@ Through this analysis, the project delivers:
 • Business-ready reports and presentations summarizing findings
 
 
-#🎯 Why This Project Matters
+## 🎯 Why This Project Matters
 
 This project mirrors how data analysts operate in real business environments by combining:
 
